@@ -1,0 +1,14 @@
+
+root = true
+
+[*]
+end_of_line = lf
+indent_size = 2
+indent_style = space
+charset = utf-8
+
+[*.ts]
+end_of_line = lf
+
+[*.module.ts]
+end_of_line = lf
